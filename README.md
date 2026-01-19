@@ -66,7 +66,7 @@ Slow progress right?? but consistent wins the race!
 -----------------------------------------------------
 
 # Day 13:Decomposition, Derivation, Integration, and Gradient Descent
-
+--------------------------------------
 - Identity and Inverse Matrices: Solving equations (e.g., linear regression) and optimization (e.g., gradient descent).
 
 - Eigenvalues and Eigenvectors: PCA, SVD, feature extraction; eigenvalues capture variance.
@@ -75,19 +75,19 @@ Slow progress right?? but consistent wins the race!
 
 Notes Here
 
-Calculus Overview:
-Functions & Graphs: Relationship between input (e.g., house size) and output (e.g., house price).
+## Calculus Overview:
+- Functions & Graphs: Relationship between input (e.g., house size) and output (e.g., house price).
 ![function and graphs](images/image.png)
 
-Derivatives: Adjust model parameters to minimize error in predictions (e.g., house price). 
+- Derivatives: Adjust model parameters to minimize error in predictions (e.g., house price). 
 
-Partial Derivatives: Measure change with respect to one variable, used in neural networks for weight updates.
+- Partial Derivatives: Measure change with respect to one variable, used in neural networks for weight updates.
 
-Gradient Descent: Optimization to minimize the cost function (error).
+- Gradient Descent: Optimization to minimize the cost function (error).
 
-Optimization: Finding the best values (minima/maxima) of a function to improve predictions.
+- Optimization: Finding the best values (minima/maxima) of a function to improve predictions.
 
-Integrals: Calculate area under a curve, used in probabilistic models (e.g., Naive Bayes).
+- Integrals: Calculate area under a curve, used in probabilistic models (e.g., Naive Bayes).
 ![Integrals](images/integration.png) 
 
 Revised statistics and probability concepts. Ready for the ML Specialization course!

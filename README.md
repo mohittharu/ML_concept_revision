@@ -95,9 +95,11 @@ Revised statistics and probability concepts. Ready for the ML Specialization cou
 # Day 03: Supervised Learning: Regression and Classification
 
 - Supervised Learning:
+
 ![Supervised Learning](images/day03_supervisedlearning.gif)
 
 - Classification and Regression:
+
 ![Classification and Regression ](images/day03_supervisedLearning.png)
 ------------------------------------------------------------------------
 

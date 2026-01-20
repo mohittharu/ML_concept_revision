@@ -23,11 +23,11 @@
 
 | Days  | Topics                                                                 | Resources |
 |------:|------------------------------------------------------------------------|-----------|
-| [Day01_11](Day01_11)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp) |
-| [Day12](Day12)   | Basics of Linear Algebra                                              | [3blue1brown](https://www.youtube.com/@3blue1brown) |
-| [Day13](Day13)   | Decomposition, Derivation, Integration, and Gradient Descent           | [3blue1brown](https://www.youtube.com/@3blue1brown) |
-| [Day14](Day14)   | Supervised Learning, Regression and classification                     | [Machine Learning Specialization]|
-| [Day15](Day15)   | Unsupervised Learning: Clustering and dimensionality reduction         | [Machine Learning Specialization]|
+| [Day00](Day00)   |Learning Python Libraries                   | [w3Schools](https://www.w3schools.com/python/default.asp) |
+| [Day01](Day01)   | Basics of Linear Algebra                                              | [3blue1brown](https://www.youtube.com/@3blue1brown) |
+| [Day02](Day02)   | Decomposition, Derivation, Integration, and Gradient Descent           | [3blue1brown](https://www.youtube.com/@3blue1brown) |
+| [Day03](Day03)   | Supervised Learning, Regression and classification                     | [CampusX](https://www.youtube.com/watch?v=81ymPYEtFOw&t=498s)|
+| [Day04](Day04)   | Unsupervised Learning: Clustering and dimensionality reduction         | [Machine Learning Specialization]|
 | [Day16](Day16)   | Univariate Linear Regression                                           | [Machine Learning Specialization]|
 | [Day17](Day17)   | Cost Functions                                                        | [Machine Learning Specialization]|
 | [Day18](Day18)   | Gradient Descent                                                      | [CampusX](https://www.youtube.com/@campusx-official) |
@@ -39,21 +39,20 @@
 
 
 -------------------------------------
-## Day 01 t0  Day 11: Python Libraries
+## Day 00: Python Libraries
 - Numpy
 - Pandas
 - Matplotlib
 - str_Method
-
 --------------------------------------
 
-# Day 12: Basics of Linear Algebra
+# Day 01: Basics of Linear Algebra
 
 linear algebra is used to represent data, perform matrix operations, and solve equations in algorithms like regression, pca, and neural networks.
 
 - Scalars, Vectors, Matrices, Tensors: Basic data structures for ML.
 
-![Day 12: Basics of Linear Algebra](images/example_of_tensor.png)
+![Day 01: Basics of Linear Algebra](images/example_of_tensor.png)
 
 - Linear Combination and Span: Representing data points as weighted sums. Used in Linear Regression and neural networks.
 
@@ -65,13 +64,13 @@ linear algebra is used to represent data, perform matrix operations, and solve e
 Slow progress right?? but consistent wins the race!
 -----------------------------------------------------
 
-# Day 13:Decomposition, Derivation, Integration, and Gradient Descent
+# Day 02:Decomposition, Derivation, Integration, and Gradient Descent
 --------------------------------------
 - Identity and Inverse Matrices: Solving equations (e.g., linear regression) and optimization (e.g., gradient descent).
 
 - Eigenvalues and Eigenvectors: PCA, SVD, feature extraction; eigenvalues capture variance.
 
-
+![Function and Gradient](images\function_gradient.png)
 
 Notes Here
 
@@ -91,3 +90,17 @@ Notes Here
 ![Integrals](images/integration.png) 
 
 Revised statistics and probability concepts. Ready for the ML Specialization course!
+---------------------------------------------------------------------
+
+# Day 03: Supervised Learning: Regression and Classification
+
+- Supervised Learning:
+![Supervised Learning](images/day03_supervisedlearning.gif)
+
+- Classification and Regression:
+![Classification and Regression ](images\day03_supervisedLearning.png)
+------------------------------------------------------------------------
+
+# Day 04: 
+
+

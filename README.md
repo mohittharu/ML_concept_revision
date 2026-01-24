@@ -28,7 +28,7 @@
 | [Day02](Day02)   | Decomposition, Derivation, Integration, and Gradient Descent           | [3blue1brown](https://www.youtube.com/@3blue1brown) |
 | [Day03](Day03)   | Supervised Learning, Regression and classification                     | [CampusX](https://www.youtube.com/watch?v=81ymPYEtFOw&t=498s)|
 | [Day04](Day04)   | Unsupervised Learning: Clustering and dimensionality reduction         | [Machine Learning Specialization]|
-| [Day16](Day16)   | Univariate Linear Regression                                           | [Machine Learning Specialization]|
+| [Day05](Day05)   | Univariate Linear Regression                                           | [Machine Learning Specialization]|
 | [Day17](Day17)   | Cost Functions                                                        | [Machine Learning Specialization]|
 | [Day18](Day18)   | Gradient Descent                                                      | [CampusX](https://www.youtube.com/@campusx-official) |
 | [Day19](Day19)   | Effect of learning Rate, Cost function and Data on GD                  | [CampusX](https://www.youtube.com/@campusx-official)|
